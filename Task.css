@@ -1,0 +1,9 @@
+.task{
+    margin: 70px;
+  border: 1px solid grey;
+  width: 70%;
+  height: 20%;
+  border-radius: 25px;
+  background:white;
+  
+}
